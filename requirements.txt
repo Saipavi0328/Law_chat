@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+langchain_google_genai
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+streamlit
+ipykernel
+torchvision
